@@ -1,4 +1,4 @@
-# :pretzel: Site Responsivo Bakery
+# :pretzel: Padoca
 
 ## Site Bakery
 - Desenvolvido em HTML, CSS e ReactJS.
